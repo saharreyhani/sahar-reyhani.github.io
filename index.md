@@ -25,7 +25,7 @@
 + Diploma : somayeh school
 _ 2014 , khalkhal
 + Bachelor of science : computer Engineering
-_ 2017,payam Noor University of Shahriar
+_ 2017,payam Noor University of Khalkhal
 
 ### Favorites
 
