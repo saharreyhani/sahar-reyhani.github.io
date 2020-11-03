@@ -1,46 +1,45 @@
 
-### Mir Mohammad Kamali
-<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+### Sahar Reyhani
+<a href="https://uupload.ir/view/oejc_photo.jpg" target="_blank"><img src="https://uupload.ir/files/oejc_photo_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
 ---
-+ name: Mir mohammad
-+ last name : kamali
-+ Date of birth : 1999/April/10
-+ I am a trader and Computer engineering student
++ name: Sahar
++ last name : Reyhani
++ Date of birth : 1376/10/24
++ Computer engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ Programming
-+ playing games on best leagues
++ Teaching mathematics
++ driving
++ Cooking
 
 ### Education
 
 ---
-+ Diploma : Shahid Dr.Chamran school
-_ 2015
++ Diploma : somayeh school
+_ 2014 , khalkhal
 + Bachelor of science : computer Engineering
-_ 2018,payam Noor University of Rey 
+_ 2017,payam Noor University of Shahriar
 
 ### Favorites
 
 ---
-+ Trade
-+ ping-pong
++ shoping
++ watching videos
 + travel 
-+ playing video games
 
 ### working Experience
 
 ---
-+ I am working in Mofid Brokerage .
++ Elementary teaching 
 
-### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
+### [contact with me](saharreyhaniiii@gmail.com)
 
 
 --- 
